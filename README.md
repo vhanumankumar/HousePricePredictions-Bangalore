@@ -1,2 +1,2 @@
 # ML-Algorithms
-This repository meant for hands on practice for ML algorithms
+Its me hANUman, focused on end to end ML project implementation on Linear Regression
