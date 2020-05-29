@@ -1,1 +1,2 @@
-Its me hANUman, focused on end to end ML project implementation on Linear Regression
+Linear Regression to predict house prices in bangalore
+
